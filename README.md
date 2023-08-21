@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="">
-  <img align="center" src="https://raw.githubusercontent.com/KirrimK/KirrimK/main/screenshot107.png" />
+  <img align="center" src="https://raw.githubusercontent.com/KirrimK/KirrimK/main/screenshot107_prof.png" />
 </a>
 
 <br>
