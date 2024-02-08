@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://github.com/KirrimK/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-rho-seven-91.vercel.app/api?username=KirrimK" />
+    <img align="center" src="https://github-readme-stats-git-master-kirrimk.vercel.app/api?username=KirrimK" />
   </a>
   <a href="https://github.com/ryo-ma/">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=KirrimK&row=2&column=3" />
